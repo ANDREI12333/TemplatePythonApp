@@ -4,7 +4,7 @@ on: workflow_dispatch
 
 jobs:
   build_and_test:
-    runs-on: windows-10
+    runs-on: windows-latest
     steps:
       - name: Build
         uses: actions/checkout@v3
