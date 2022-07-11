@@ -1,6 +1,5 @@
 # Copyright (C) 2022 ANDREI12333
 import sys
-
 from PyQt5.QtWidgets import (
     QApplication,
     QHBoxLayout,
